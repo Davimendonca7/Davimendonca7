@@ -1,5 +1,5 @@
 ###
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/davi-mendonça-399592299)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/davi-mendonca777)
 
 ![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=Davimendonca7&show_icons=true&theme=dracula)
 
